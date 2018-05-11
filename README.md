@@ -2,7 +2,7 @@
 
 咖啡巨匠SPA網頁
 
-個人練習做品，使用技術：vue cli、vuex、bootstrap4、sass、axios串接後端api
+個人練習作品，使用技術：vue cli、vuex、bootstrap4、sass、axios串接後端api
 
 API是自己用node.js寫的假資料json，並發布在Heroku上面。
 
